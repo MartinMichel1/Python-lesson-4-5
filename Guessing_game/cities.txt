@@ -1,0 +1,74 @@
+[
+    {
+        "country": "Slovenia",
+        "city": "Ljubljana"
+    },
+    {
+        "country": "Spain",
+        "city": "Madrid"
+    },
+    {
+        "country": "Croatia",
+        "city": "Zagreb"
+    },
+    {
+        "country": "England",
+        "city": "London"
+    },
+    {
+        "country": "Spain",
+        "city": "Madrid"
+    },
+    {
+        "country": "Albania",
+        "city": "Tirana"
+    },
+    {
+        "country": "Belarus",
+        "city": "Minsk"
+    },
+    {
+        "country": "Belgium",
+        "city": "Brussels"
+    },
+    {
+        "country": "Czech Republic",
+        "city": "Prague"
+    },
+    {
+        "country": "Denmark",
+        "city": "Copenhagen"
+    },
+    {
+        "country": "Estonia",
+        "city": "Tallinn"
+    },
+    {
+        "country": "Finland",
+        "city": "Helsinki"
+    },
+    {
+        "country": "France",
+        "city": "Paris"
+    },
+    {
+        "country": "Greece",
+        "city": "Athens"
+    },
+    {
+        "country": "Hungary",
+        "city": "Budapest"
+    },
+    {
+        "country": "Iceland",
+        "city": "Reykjavík"
+    },
+    {
+        "country": "Ireland",
+        "city": "Dublin"
+    },
+    {
+        "country": "Norway",
+        "city": "Oslo"
+    }
+]
