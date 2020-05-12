@@ -26,5 +26,4 @@ new_player = FootballPlayer(first_name=name_first, last_name=name_last, height_c
 with open("new_players.txt", "w") as football_file:
     football_file.write(str(new_player.__dict__))
 
-print("Player successfully entered!")
-print(f"Player's data: {new_player.__dict__}")
+print("New player entered!")
